@@ -10,6 +10,7 @@ package ru.nickopol.HW5;
  * git remote add origin https://github.com/nickopol80/itproger.git
  * git push -u origin master
  */
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("HW5");
